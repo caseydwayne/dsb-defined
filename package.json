@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "returns false if {value} is {undefined} or {root}",
   "main": "index.js",
-  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (https://caseydwayne.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseydwayne/dsb-defined.git"
+  },
   "dependencies": {
     "dsb-root": "1.0.0"
   },
@@ -11,5 +15,5 @@
     "dsb-debug-mini": "^1.0.0"
   },
   "license": "NONE",
-  "private": true
+  "private": false
 }
