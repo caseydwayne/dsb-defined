@@ -1,0 +1,15 @@
+{
+  "name": "dsb-defined",
+  "version": "1.0.0",
+  "description": "returns false if {value} is {undefined} or {root}",
+  "main": "index.js",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "dependencies": {
+    "dsb-root": "1.0.0"
+  },
+  "devDependencies": {
+    "dsb-debug-mini": "^1.0.0"
+  },
+  "license": "NONE",
+  "private": true
+}
